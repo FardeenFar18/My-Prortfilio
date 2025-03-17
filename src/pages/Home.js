@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { FaGithub, FaLinkedin, FaPhoneAlt } from "react-icons/fa";
+import { FaGithub, FaLinkedin } from "react-icons/fa";
 import Images from "../assests/fardeen.jpg";
 
 
