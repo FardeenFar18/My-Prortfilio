@@ -36,7 +36,7 @@ const Resume = () => {
         <h2>💼 Work Experience</h2>
         <p><strong>Role:</strong> MERN Stack Developer</p>
         <p><strong>Company:</strong> Ideelit Softwares LLP</p>
-        <p><strong>Experience:</strong> 1.4 Years</p>
+        <p><strong>Experience:</strong> 1.6 Years</p>
         <p><strong>Responsibilities:</strong></p>
         <ul>
           <li>Developed and maintained full-stack web applications using the MERN stack.</li>
